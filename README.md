@@ -4,7 +4,8 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 import requests
 
 # Token
-TOKEN = "7880321029:AAFg3I6t-WqeWmIqE1peCA-ySL90-AbXAU8"
+TOKEN = "7880321029: AAEJL-
+D_Sir6p0QWaqGlgblihyUYT6kQrY"
 CHANNEL_ID = '-1002383820713'
 
 # المتغير لتخزين الرصيد
